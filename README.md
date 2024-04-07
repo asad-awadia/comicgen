@@ -16,6 +16,8 @@ We created Comicgen to help people write better stories using comic.
 
 Interested in data storytelling? Come **join the [#ComicgenFriday](https://gramener.com/comicgenfriday/) community**.
 
+Alternatives: [faces.js](https://github.com/zengm-games/facesjs).
+
 <!-- end -->
 
 <!-- var usage -->
